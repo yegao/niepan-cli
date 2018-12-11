@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "commander": "^2.19.0"
+  },
+  "name": "niepan-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "np-cli"
+  ],
+  "author": "ygg",
+  "license": "MIT",
+  "description": ""
+}
